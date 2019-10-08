@@ -8,7 +8,7 @@ module Fog
         # http://docs.amazonwebservices.com/AmazonRDS/latest/APIReference/API_CreateDBParameterGroup.html
         # ==== Parameters
         # * DBParameterGroupName <~String> - name of the parameter group
-        # * DBParameterGroupFamily <~String> - The DB parameter group family name. Current valid values: MySQL5.1 | MySQL5.5
+        # * DBParameterGroupFamily <~String> - The DB parameter group family name.
         # * Description <~String> - The description for the DB Parameter Grou
         #
         # ==== Returns
